@@ -1,5 +1,5 @@
 # VKR
-Код выпускной курсовой работы Сергея Скляров
+Код выпускной курсовой работы Сергея Склярова
 
 Ссылка на код парсинга сообщений: https://colab.research.google.com/drive/18mDrCuimKKdQMWrdXgyK90hGqiSFyuHt?usp=sharing
 
